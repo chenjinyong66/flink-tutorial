@@ -6,7 +6,11 @@
 
     <groupId>com.cjinyong</groupId>
     <artifactId>flink-tutorial</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>flink-table</module>
+    </modules>
 
 
 </project>
